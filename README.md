@@ -1,1 +1,0 @@
-# P6---Depura-y-corrige-los-errores
