@@ -4,11 +4,11 @@
 
 ![](Capturas/Error_temperatura.png)
 
-**¿Por qué ocurria el error?**
+# ¿Por qué ocurria el error?
 
 Ocurria porque no puede ser un número mayor que 50 y menor que -10 a la vez.
 
-**¿Cómo solucione el error?**
+# ¿Cómo solucione el error?
 
 Lo solucione cambiando el && por el || en las 2 que tenian &&. Y con eso si tiene sentido, ya que un número si puede ser mayor que 50 o menor que -10.
 
