@@ -15,3 +15,5 @@ Lo solucione cambiando el && por el || en las 2 que tenian &&. Y con eso si tien
 # ¿Piensas que la documentación de un programa es necesaria? Justifica la respuesta
 
 Si, porque gracias a eso si el programa cambia o se debe actualizar, con la documentación puedes entender tu o otro programador más rapidamente que hace cada parte del código. Esto mejora el trabajo en equipo y acelera la depuración.
+
+**Hecho por: Jhonatan Cano León**
